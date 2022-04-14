@@ -3,6 +3,4 @@ Analyze:
 - movies and TV shows rating over time by genre (draw lineplot)
 - distribution of movies and TV shows by genre (draw barplot)
 - movie recommendation
-- top 10 movies/TV shows in US
-- top 10 directors/actors by amount of content/imdb
-- does the pandemic (from 2020) affect the quality/quantity of movies/TV shows
+
