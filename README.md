@@ -1,12 +1,12 @@
 # Required datasets:
 ## Please download the following datasets: 
-- netflix_dataset.csv: https://www.kaggle.com/datasets/shivamb/netflix-shows
+- netflix_titles.csv: https://www.kaggle.com/datasets/shivamb/netflix-shows
 
 - title.basic.tsv.gz: https://datasets.imdbws.com/title.basics.tsv.gz
   After downloading and unzipping this dataset, please **rename** the file to "**title_basic_imdb.tsv**"
   
 - title.ratings.tsv.gz: https://datasets.imdbws.com/title.ratings.tsv.gz
-  After downloading and unzipping this dataset, please **rename** the file to "**movie_ratings.tsvv**"
+  After downloading and unzipping this dataset, please **rename** the file to "**movie_ratings.tsv**"
 
 # Prepare datasets:
 - First, run the **`preparing_data.ipynb`** file in Jupyter notebook for reading datasets and preparing dataset
